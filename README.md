@@ -1,4 +1,15 @@
 # Sketch Pad
-#### My implementation on The Odin Projet Javascript/jQuery
-##### Demo can be viwed by visting the following link
-[Sketch Pad](http://htmlpreview.github.io/?https://github.com/hasan3d/sketch-pad/master/index.html)
+                                  
+This is my implementation on JavaScript/jQuery project assigned by The Odin Project(http://www.theodinproject.com).
+I have used jQuery to dynamically add HTML elements and add effects to it such as if a user hover over the 
+Grid the color of the grid changes so that it can give a meaning as a sketch pad. I have also used some CSS to style it.
+As a user, You have the option to create new grid by simply specifying width and height of the grid.
+
+Feel free to play with it!
+
+Screenshot of the Sketch Pad:
+![Sketch Pad](sketch-pad.png)
+Format: ![Sketch Pad](http://htmlpreview.github.io/?https://github.com/hasan3d/sketch-pad/master/index.html)
+
+
+[Click here to see it live!](http://htmlpreview.github.io/?https://github.com/hasan3d/sketch-pad/master/index.html)
