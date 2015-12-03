@@ -7,9 +7,7 @@ As a user, You have the option to create new grid by simply specifying width and
 
 Feel free to play with it!
 
-Screenshot of the Sketch Pad:
-![Sketch Pad](sketch-pad.png)
-Format: ![Sketch Pad](http://htmlpreview.github.io/?https://github.com/hasan3d/sketch-pad/master/index.html)
-
-
 [Click here to see it live!](http://htmlpreview.github.io/?https://github.com/hasan3d/sketch-pad/master/index.html)
+
+###Screenshot of the Sketch Pad:
+![Sketch Pad](sketch-pad.png)
